@@ -4,7 +4,8 @@ An aspiring Data Scientist from India
 🌱 I’m currently learning Data Science  
 📫 How to reach me: yuktinadhe@gmail.com  
 
-![Alt Text]("C:\Users\yukti\OneDrive\文档\55911.gif")
+![55911](https://github.com/user-attachments/assets/d5b1ab76-d2b5-495d-b7ab-78274c6c6b9d)
+
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yukti-nadhe-47342b21b/)
@@ -32,8 +33,4 @@ An aspiring Data Scientist from India
 ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square)
 
 
-## Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
-<img src="https://your-image-link.gif" width="300px">
 
