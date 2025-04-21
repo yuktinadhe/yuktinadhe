@@ -5,9 +5,9 @@ An aspiring Data Scientist from India
 📫 How to reach me: yuktinadhe@gmail.com  
 
 ## Connect with me:
-[[[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/yukti-nadhe-47342b21b/)](https://www.linkedin.com/in/yukti-nadhe-47342b21b/)
-[[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Yukuuuu)
-](https://github.com/yuktinadhe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yukti-nadhe-47342b21b/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/yuktinadhe)
+
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
