@@ -3,7 +3,6 @@ An aspiring Data Scientist from India
 
 🌱 I’m currently learning Data Science  
 📫 How to reach me: yuktinadhe@gmail.com                               
-![Uploading ChatGPT Image Apr 22, 2025, 12_49_01 AM.png…]()
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yukti-nadhe-47342b21b/)
