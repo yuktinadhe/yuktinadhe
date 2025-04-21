@@ -31,8 +31,7 @@ An aspiring Data Scientist from India
 
 
 ## Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukuuuu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/data-scientist-5110689-4260524.png" width="100%"/>
+<img src="https://your-image-link.gif" width="300px">
 
--->
