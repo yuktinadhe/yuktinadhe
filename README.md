@@ -9,13 +9,14 @@ An aspiring Data Scientist from India
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/yuktinadhe)
 
 ## Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)](https://jupyter.org/)
+[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)](https://www.mysql.com/)
+[![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/)
+[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+
 
 ## Libraries I use:
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)](https://numpy.org/)
