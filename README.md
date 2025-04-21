@@ -4,6 +4,8 @@ An aspiring Data Scientist from India
 🌱 I’m currently learning Data Science  
 📫 How to reach me: yuktinadhe@gmail.com  
 
+"C:\Users\yukti\OneDrive\文档\55911.gif"
+
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yukti-nadhe-47342b21b/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/yuktinadhe)
