@@ -18,15 +18,14 @@
 <p align="left">
   <a href="https://linkedin.com/in/yukti-nadhe-47342b21b" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a> |
   <a href="https://github.com/yuktinadhe" target="blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/yuktinadhe/yuktinadhe/blob/main/yukti_nadhe_resume.pdf" target="blank">
+  </a> |
+  <a href="https://raw.githubusercontent.com/yuktinadhe/yuktinadhe/226f8def3caf1bed28c8e5048db79e750e069889/yukti_nadhe_resume.pdf" target="blank">
     <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobeacrobatreader"/>
   </a>
 </p>
-
 
 
 
