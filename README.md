@@ -12,7 +12,7 @@
 ## 🚀 About Me
 - 🎓 Passionate Data Scientist from India  
 - 💻 Exploring **ML | Deep Learning | Generative AI | LLMs**  
-- 🌱 Currently learning **MLOps | LangChain | Transformers**  
+- 🌱 Currently learning **MLOps | LangSmith | Transformers**  
 - 💡 Love turning data into **meaningful AI-driven solutions**  
 - 📫 Reach me at: **[yuktinadhe@gmail.com](mailto:yuktinadhe@gmail.com)**  
 
@@ -30,7 +30,7 @@
 
 ---
 
-🛠️ Skills
+## 🛠️ Skills
 
 - Programming: Python | SQL | Bash
 - Databases: MySQL |  PostgreSQL 
