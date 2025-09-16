@@ -5,6 +5,7 @@
 <h1 align="left">
   Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Yukti  
 </h1>
+<img align="right" alt="Coding girl" width="350" src="YOUR_IMAGE_OR_GIF_LINK_HERE">
 <h3 align="left">🚀 Data Scientist | ML Engineer | AI Enthusiast</h3>
 
 ---
