@@ -7,7 +7,7 @@
 <img align="right" alt="Coding girl" width="350" src="YOUR_IMAGE_OR_GIF_LINK_HERE">
 <h3 align="left">🚀 Data Scientist | ML Engineer | AI Enthusiast</h3>
 
----
+
 
 ## 🚀 About Me
 - 🎓 Passionate Data Scientist from India  
