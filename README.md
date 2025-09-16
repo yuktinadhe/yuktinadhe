@@ -6,7 +6,6 @@
 
 
 ## 🚀 About Me
-</h1>
 - 🎓 Passionate Data Scientist from India  
 - 💻 Exploring **ML | Deep Learning | Generative AI | LLMs**  
 - 🌱 Currently learning **MLOps | LangSmith | Transformers**  
