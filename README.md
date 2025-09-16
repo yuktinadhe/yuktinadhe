@@ -28,7 +28,7 @@
   </a>
 </p>
 
----
+
 
 ## 🛠️ Skills
 
@@ -48,7 +48,7 @@
 - Web Scraping: BeautifulSoup 
 - Other Tools: Jupyter Notebook | VS Code | Anaconda | Google Colab
 
----
+
 
 ## 📊 GitHub Stats:
 <p align="center">
@@ -57,7 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuktinadhe&layout=compact&theme=radical" />
 </p>
 
----
 
 ## 🏆 Achievements & Certifications
 - ✅ **IBM Certified Data Science Professional**
