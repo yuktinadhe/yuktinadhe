@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://github.com/yourusername/yourusername/blob/main/banner.gif" alt="Banner" width="100%" />
-</p>
-
 <h1 align="left">
   Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Yukti  
   <img align="right" alt="Coding girl" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
@@ -10,6 +6,7 @@
 
 
 ## 🚀 About Me
+</h1>
 - 🎓 Passionate Data Scientist from India  
 - 💻 Exploring **ML | Deep Learning | Generative AI | LLMs**  
 - 🌱 Currently learning **MLOps | LangSmith | Transformers**  
