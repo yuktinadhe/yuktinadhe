@@ -9,8 +9,6 @@
 <h3 align="left">🚀 Data Scientist | ML Engineer | AI Enthusiast</h3>
 
 
-
-
 ## 🚀 About Me
 - 🎓 Passionate Data Scientist from India  
 - 💻 Exploring **ML | Deep Learning | Generative AI | LLMs**  
