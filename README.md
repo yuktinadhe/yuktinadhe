@@ -6,7 +6,7 @@
   Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Yukti  
   <img align="right" alt="Coding girl" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </h1>
-<h3 align="left">🚀 Data Scientist | ML Engineer | AI Enthusiast</h3>
+<h3 align="left">Data Scientist | ML Engineer | AI Enthusiast</h3>
 
 
 ## 🚀 About Me
