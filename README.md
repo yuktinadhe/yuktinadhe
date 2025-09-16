@@ -22,6 +22,9 @@
   <a href="https://github.com/yuktinadhe" target="blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
+  <a href="https://github.com/yuktinadhe/yuktinadhe/blob/main/yukti_nadhe_resume.pdf" target="blank">
+    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobeacrobatreader"/>
+  </a>
 </p>
 
 
