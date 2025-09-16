@@ -7,7 +7,7 @@
 <img align="right" alt="Coding girl" width="350" src="YOUR_IMAGE_OR_GIF_LINK_HERE">
 <h3 align="left">🚀 Data Scientist | ML Engineer | AI Enthusiast</h3>
 
-</h1>
+---
 
 ## 🚀 About Me
 - 🎓 Passionate Data Scientist from India  
@@ -16,7 +16,7 @@
 - 💡 Love turning data into **meaningful AI-driven solutions**  
 - 📫 Reach me at: **[yuktinadhe@gmail.com](mailto:yuktinadhe@gmail.com)**  
 
-</h1>
+
 
 ## 🔗 Connect with me:
 <p align="left">
