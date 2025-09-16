@@ -1,11 +1,11 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/yourusername/yourusername/blob/main/banner.gif" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">
+<h1 align="left">
   Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Yukti  
 </h1>
-<h3 align="center">🚀 Data Scientist | ML Engineer | AI Enthusiast</h3>
+<h3 align="left">🚀 Data Scientist | ML Engineer | AI Enthusiast</h3>
 
 ---
 
