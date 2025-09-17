@@ -60,8 +60,8 @@
 ## 🏆 Achievements & Certifications
 - ✅ **IBM Certified Data Science Professional**
 - ✅ **NASSCOM Certified AI/ML Professional**
-- ✅ **Internships: Cognifyz Technologies**
-- ✅ **Internships: ZenithIndia**
+- ✅ **Internship: Cognifyz Technologies**
+- ✅ **Internship: ZenithIndia**
 
 ---
 
