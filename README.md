@@ -1,6 +1,6 @@
 <h1 align="left">
   Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Yukti  
-  <img align="right" alt="Coding girl" width="450" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img align="right" alt="Coding girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </h1>
 <h3 align="left">Data Scientist | ML Engineer | AI Enthusiast</h3>
 
