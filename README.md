@@ -31,15 +31,15 @@
 
 ## 🛠️ Skills
 
-- Programming: Python | SQL | Bash
+- Programming: Python | SQL 
 - Databases: MySQL |  PostgreSQL 
-- Technologies: Machine Learning | Deep Learning | Generative AI | Retrieval-Augmented Generation (RAG)
+- Technologies: Machine Learning | Deep Learning | Generative AI | Retrieval-Augmented Generation (RAG) | Agentic AI
 - Development: Streamlit | FastAPI | Flask
 - Version Control: Git | GitHub
 - Experiment Tracking: MLflow | Weights & Biases (W&B)
 - Cloud: AWS (Basics) | Google Cloud (Basics) | Azure (Basics)
 - CI/CD: GitHub Actions 
-- Frameworks & Libraries: TensorFlow | Keras | PyTorch | Scikit-Learn | Feature-Engine | LangChain | LangGraph | Hugging Face Transformers
+- Frameworks & Libraries: TensorFlow | Keras | PyTorch | Scikit-Learn | Feature-Engine | LangChain | LangGraph | LangSmith | Hugging Face Transformers
 - Visualization: Matplotlib | Seaborn | Power BI
 - NLP: NLTK | SpaCy | OpenAI APIs | Prompt Engineering
 - Image Processing & OCR: OpenCV | EasyOCR | Tesseract OCR
@@ -60,7 +60,8 @@
 ## 🏆 Achievements & Certifications
 - ✅ **IBM Certified Data Science Professional**
 - ✅ **NASSCOM Certified AI/ML Professional**
-- ✅ **Internships: Cognifyz Technologies, Naresh IT**
+- ✅ **Internships: Cognifyz Technologies**
+- ✅ **Internships: ZenithIndia**
 
 ---
 
